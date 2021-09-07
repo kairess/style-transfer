@@ -20,3 +20,9 @@ python style_transfer.py
 - torch==1.7
 - pillow
 - tqdm
+
+## Reference
+
+- https://junklee.tistory.com/69
+- https://keras.io/examples/generative/neural_style_transfer/
+- https://github.com/titu1994/Neural-Style-Transfer
